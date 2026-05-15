@@ -22,9 +22,9 @@ AQUA friends exists to bridge these two worlds.
 
 If your diagnostic or tool:
 
-* use AQUA as data-access framework
+* uses AQUA as data-access framework
 * is not part of the operational framework of the ClimateDT
-* do not follow coding standard or cycle releases of the ClimateDT or the AQUA code
+* does not follow coding standard or cycle releases of the ClimateDT or of the AQUA code
 * is experimental or project-specific
 * is not officially maintained by the AQUA team
 
